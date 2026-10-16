@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Pages Auto Portfolio",
+  "description": "Portofolio proyek otomatis dari GitHub repository siap build untuk GitHub Pages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
